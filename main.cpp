@@ -1,10 +1,4 @@
 /*
-P05 Circular Buffer
-CS318 Rossi
-Jocelyne Madrigal
-Date: Fall 2024
-*
-*
 This program uses an object called a Circular Buffer that uses a template to allow functionality for various data types
 In this program, the Circular Buffer stores ints, strings, and dog objects
 The circular buffer is an stl array and iterators are used to traverse through the array container
